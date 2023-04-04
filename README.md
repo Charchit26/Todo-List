@@ -18,6 +18,8 @@ To start the app:
 1. Run `npm start` to boot up the UI on `http://localhost:3000/`
 2. Run `npm run start-api` to boot up an instance of `json-server` on the port `http://localhost:3001/`. This helps save the todo items in a json file inside the repository.
 
+![](src/docs/screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
