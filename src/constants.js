@@ -1,0 +1,5 @@
+export const TODO_FILTERS = {
+    ALL: "ALL",
+    REMAINING: "REMAINING",
+    COMPLETED: "COMPLETED",
+}
