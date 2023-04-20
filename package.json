@@ -1,6 +1,7 @@
 {
   "name": "ln-react-solution",
   "version": "0.1.0",
+  "homepage": "https://charchit.dev/Todo-List/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
